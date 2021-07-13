@@ -104,7 +104,7 @@ Methods and their	description.
 44.	zfill(): Fills the string with a specified number of 0 values at the beginning.
 
 # Python-Files-Calculator
-In this program, we ask the user to choose an operation. Options 1, 2, 3, and 4 are valid. If any other input is given, Invalid Input is displayed and the loop continues until a valid option is selected.
+In this program, we ask the user to choose an operation. Options 1, 2, 3, and 4 are valid. If any other input is given, Invalid Input is displayed and a message pops to ask if the user wants to continue to not.
 Two integers are taken and an if...elif...else branching is used to execute a particular section.
 
 
