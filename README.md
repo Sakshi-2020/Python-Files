@@ -103,6 +103,10 @@ Methods and their	description.
 43.	upper(): Converts a string into upper case.
 44.	zfill(): Fills the string with a specified number of 0 values at the beginning.
 
+# Python-Files-Calculator
+In this program, we ask the user to choose an operation. Options 1, 2, 3, and 4 are valid. If any other input is given, Invalid Input is displayed and the loop continues until a valid option is selected.
+Two integers are taken and an if...elif...else branching is used to execute a particular section.
+
 
 
 
